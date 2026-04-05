@@ -151,4 +151,4 @@ MIT
 
 ## Credits
 
-Built during a real production migration from [OpenClaw](https://github.com/AiCEG/openclaw) to [ClaudeClaw](https://github.com/moazbuilds/ClaudeClaw). The memory system was designed by two AI instances (Claude Opus + GPT-5.4) collaborating through shared memory — the very system this repo implements.
+Born from a real production setup that's been running daily since April 2026. For the full story behind this system, see [openclaw-to-claudeclaw](https://github.com/Sunnyztj/openclaw-to-claudeclaw).
